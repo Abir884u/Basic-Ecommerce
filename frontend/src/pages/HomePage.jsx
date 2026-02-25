@@ -193,9 +193,9 @@ export default function HomePage() {
           ))}
         </div>
         
-        <div className="border-t border-ink-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p className="text-sm text-surface-300">© 2024 Shopora. All rights reserved.</p>
-          <p className="text-sm text-surface-300">Built with React + Node.js + MongoDB</p>
+        <div className="border-t border-ink-700 pt-6  flex flex-col sm:flex-row items-center justify-between gap-3">
+          <p className="text-sm text-surface-300 align-center text-center mr-9 items-center">© 2026 Shopora. All rights reserved.</p>
+          
         </div>
       </footer>
     </div>
