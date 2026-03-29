@@ -46,13 +46,13 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative overflow-hidden py-20 md:py-32">
         {/* Background gradient */}
-        <div className="absolute inset-0 bg-gradient-to-br from-brand-950 via-ink-900 to-ink-900" />
+        <div className="absolute  inset-0 bg-gradient-to-br from-brand-950 via-ink-900 to-ink-900" />
         <div className="absolute inset-0 opacity-30" style={{
           backgroundImage: `radial-gradient(circle at 20% 50%, #8824ad44 0%, transparent 50%), radial-gradient(circle at 80% 20%, #c44df044 0%, transparent 40%)`
         }} />
         
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl">
+        <div className="relative max-w-7xl align-items-center items-center mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl  align-items-center items-center">
             <div className="inline-flex items-center gap-2 bg-brand-950 border border-brand-800 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-brand-500 rounded-full animate-pulse" />
               <span className="text-sm text-brand-300 font-medium">New arrivals every week</span>

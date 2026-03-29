@@ -175,8 +175,9 @@ export default function Navbar() {
                 </Link>
                 <Link
                   to="/register"
-                  className="btn-primary text-sm py-2 px-4"
+                  className="btn-primary text-sm text-center py-2 px-4"
                 >
+                  
                   Sign Up
                 </Link>
               </div>
